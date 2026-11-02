@@ -1,0 +1,307 @@
+{
+  "keyword": "防晒霜",
+  "collected_at": "2026-11-02 13:51:41",
+  "raw_count": 15,
+  "cleaned_count": 11,
+  "platform_stats": {
+    "jd": {
+      "count": 4,
+      "min_price": 329.91,
+      "max_price": 1158.35,
+      "avg_price": 698.64,
+      "total_sales": 53005
+    },
+    "taobao": {
+      "count": 4,
+      "min_price": 36.04,
+      "max_price": 187.56,
+      "avg_price": 89.75,
+      "total_sales": 72084
+    },
+    "pdd": {
+      "count": 3,
+      "min_price": 66.73,
+      "max_price": 193.54,
+      "avg_price": 143.69,
+      "total_sales": 152832
+    }
+  },
+  "products": [
+    {
+      "platform": "taobao",
+      "name": "防晒霜 臻选青春版 1号",
+      "price": 36.04,
+      "original_price": 50.57,
+      "sales": 7596,
+      "shop_name": "优品防晒专营店",
+      "shop_score": 4.2,
+      "url": "https://taobao.example.com/item/100000",
+      "product_id": "taobao_100000",
+      "image_url": "",
+      "collected_at": "2026-11-02 13:51:41"
+    },
+    {
+      "platform": "taobao",
+      "name": "防晒霜 好物Max 4号",
+      "price": 64.01,
+      "original_price": 92.99,
+      "sales": 6388,
+      "shop_name": "优品防晒专营店",
+      "shop_score": 5.0,
+      "url": "https://taobao.example.com/item/100006",
+      "product_id": "taobao_100006",
+      "image_url": "",
+      "collected_at": "2026-11-02 13:51:41"
+    },
+    {
+      "platform": "pdd",
+      "name": "防晒霜 臻选Max 2号",
+      "price": 66.73,
+      "original_price": 105.74,
+      "sales": 60017,
+      "shop_name": "优选防晒专营店",
+      "shop_score": 3.9,
+      "url": "https://pdd.example.com/item/100002",
+      "product_id": "pdd_100002",
+      "image_url": "",
+      "collected_at": "2026-11-02 13:51:41"
+    },
+    {
+      "platform": "taobao",
+      "name": "防晒霜 品质Max 3号",
+      "price": 71.37,
+      "original_price": 96.6,
+      "sales": 2193,
+      "shop_name": "好物防晒专营店",
+      "shop_score": 4.0,
+      "url": "https://taobao.example.com/item/100004",
+      "product_id": "taobao_100004",
+      "image_url": "",
+      "collected_at": "2026-11-02 13:51:41"
+    },
+    {
+      "platform": "pdd",
+      "name": "防晒霜 优品标准版 4号",
+      "price": 170.79,
+      "original_price": 235.74,
+      "sales": 53510,
+      "shop_name": "臻选防晒专营店",
+      "shop_score": 4.4,
+      "url": "https://pdd.example.com/item/100006",
+      "product_id": "pdd_100006",
+      "image_url": "",
+      "collected_at": "2026-11-02 13:51:41"
+    },
+    {
+      "platform": "taobao",
+      "name": "防晒霜 品质Pro 2号",
+      "price": 187.56,
+      "original_price": 224.35,
+      "sales": 55907,
+      "shop_name": "好物防晒专营店",
+      "shop_score": 4.3,
+      "url": "https://taobao.example.com/item/100002",
+      "product_id": "taobao_100002",
+      "image_url": "",
+      "collected_at": "2026-11-02 13:51:41"
+    },
+    {
+      "platform": "pdd",
+      "name": "防晒霜 臻选Lite 3号",
+      "price": 193.54,
+      "original_price": 262.59,
+      "sales": 39305,
+      "shop_name": "优选防晒专营店",
+      "shop_score": 4.8,
+      "url": "https://pdd.example.com/item/100004",
+      "product_id": "pdd_100004",
+      "image_url": "",
+      "collected_at": "2026-11-02 13:51:41"
+    },
+    {
+      "platform": "jd",
+      "name": "防晒霜 正品青春版 5号",
+      "price": 329.91,
+      "original_price": 482.9,
+      "sales": 369,
+      "shop_name": "精选防晒专营店",
+      "shop_score": 3.9,
+      "url": "https://jd.example.com/item/100008",
+      "product_id": "jd_100008",
+      "image_url": "",
+      "collected_at": "2026-11-02 13:51:41"
+    },
+    {
+      "platform": "jd",
+      "name": "防晒霜 品质标准版 1号",
+      "price": 368.31,
+      "original_price": 468.4,
+      "sales": 56,
+      "shop_name": "好物防晒专营店",
+      "shop_score": 4.3,
+      "url": "https://jd.example.com/item/100000",
+      "product_id": "jd_100000",
+      "image_url": "",
+      "collected_at": "2026-11-02 13:51:41"
+    },
+    {
+      "platform": "jd",
+      "name": "防晒霜 正品标准版 3号",
+      "price": 937.99,
+      "original_price": 1454.36,
+      "sales": 17252,
+      "shop_name": "优选防晒专营店",
+      "shop_score": 3.9,
+      "url": "https://jd.example.com/item/100004",
+      "product_id": "jd_100004",
+      "image_url": "",
+      "collected_at": "2026-11-02 13:51:41"
+    },
+    {
+      "platform": "jd",
+      "name": "防晒霜 正品Lite 4号",
+      "price": 1158.35,
+      "original_price": 1539.88,
+      "sales": 35328,
+      "shop_name": "优品防晒专营店",
+      "shop_score": 4.3,
+      "url": "https://jd.example.com/item/100006",
+      "product_id": "jd_100006",
+      "image_url": "",
+      "collected_at": "2026-11-02 13:51:41"
+    }
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "product": {
+        "platform": "pdd",
+        "name": "防晒霜 臻选Max 2号",
+        "price": 66.73,
+        "original_price": 105.74,
+        "sales": 60017,
+        "shop_name": "优选防晒专营店",
+        "shop_score": 3.9,
+        "url": "https://pdd.example.com/item/100002",
+        "product_id": "pdd_100002",
+        "image_url": "",
+        "collected_at": "2026-11-02 13:51:41"
+      },
+      "score": 0.7891,
+      "components": {
+        "price": 0.9727,
+        "sales": 1.0,
+        "score": 0.0,
+        "discount": 1.0
+      },
+      "tags": [
+        "🏆 综合最推荐",
+        "🔥 销量冠军",
+        "🎁 高折扣"
+      ]
+    },
+    {
+      "rank": 2,
+      "product": {
+        "platform": "pdd",
+        "name": "防晒霜 优品标准版 4号",
+        "price": 170.79,
+        "original_price": 235.74,
+        "sales": 53510,
+        "shop_name": "臻选防晒专营店",
+        "shop_score": 4.4,
+        "url": "https://pdd.example.com/item/100006",
+        "product_id": "pdd_100006",
+        "image_url": "",
+        "collected_at": "2026-11-02 13:51:41"
+      },
+      "score": 0.7647,
+      "components": {
+        "price": 0.8799,
+        "sales": 0.8915,
+        "score": 0.4545,
+        "discount": 0.5442
+      },
+      "tags": [
+        "🎁 高折扣"
+      ]
+    },
+    {
+      "rank": 3,
+      "product": {
+        "platform": "pdd",
+        "name": "防晒霜 臻选Lite 3号",
+        "price": 193.54,
+        "original_price": 262.59,
+        "sales": 39305,
+        "shop_name": "优选防晒专营店",
+        "shop_score": 4.8,
+        "url": "https://pdd.example.com/item/100004",
+        "product_id": "pdd_100004",
+        "image_url": "",
+        "collected_at": "2026-11-02 13:51:41"
+      },
+      "score": 0.7522,
+      "components": {
+        "price": 0.8597,
+        "sales": 0.6546,
+        "score": 0.8182,
+        "discount": 0.4829
+      },
+      "tags": [
+        "🎁 高折扣"
+      ]
+    },
+    {
+      "rank": 4,
+      "product": {
+        "platform": "taobao",
+        "name": "防晒霜 品质Pro 2号",
+        "price": 187.56,
+        "original_price": 224.35,
+        "sales": 55907,
+        "shop_name": "好物防晒专营店",
+        "shop_score": 4.3,
+        "url": "https://taobao.example.com/item/100002",
+        "product_id": "taobao_100002",
+        "image_url": "",
+        "collected_at": "2026-11-02 13:51:41"
+      },
+      "score": 0.6982,
+      "components": {
+        "price": 0.865,
+        "sales": 0.9315,
+        "score": 0.3636,
+        "discount": 0.0
+      },
+      "tags": []
+    },
+    {
+      "rank": 5,
+      "product": {
+        "platform": "taobao",
+        "name": "防晒霜 好物Max 4号",
+        "price": 64.01,
+        "original_price": 92.99,
+        "sales": 6388,
+        "shop_name": "优品防晒专营店",
+        "shop_score": 5.0,
+        "url": "https://taobao.example.com/item/100006",
+        "product_id": "taobao_100006",
+        "image_url": "",
+        "collected_at": "2026-11-02 13:51:41"
+      },
+      "score": 0.6938,
+      "components": {
+        "price": 0.9751,
+        "sales": 0.1056,
+        "score": 1.0,
+        "discount": 0.7205
+      },
+      "tags": [
+        "⭐ 店铺评分最高",
+        "🎁 高折扣"
+      ]
+    }
+  ]
+}
