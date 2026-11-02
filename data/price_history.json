@@ -1,0 +1,153 @@
+{
+  "机械键盘": [
+    {
+      "timestamp": "2026-11-02 13:49:20",
+      "platforms": {
+        "jd": {
+          "min": 225.71,
+          "max": 1393.07,
+          "avg": 729.97,
+          "count": 14
+        },
+        "taobao": {
+          "min": 31.72,
+          "max": 185.02,
+          "avg": 108.17,
+          "count": 18
+        },
+        "pdd": {
+          "min": 90.23,
+          "max": 493.35,
+          "avg": 307.91,
+          "count": 13
+        }
+      },
+      "summary": {
+        "total_items": 45,
+        "jd_min": 225.71,
+        "taobao_min": 31.72,
+        "pdd_min": 90.23
+      }
+    },
+    {
+      "timestamp": "2026-11-02 13:50:53",
+      "platforms": {
+        "pdd": {
+          "min": 38.2,
+          "max": 299.53,
+          "avg": 161.09,
+          "count": 9
+        },
+        "jd": {
+          "min": 75.02,
+          "max": 285.72,
+          "avg": 181.97,
+          "count": 10
+        },
+        "taobao": {
+          "min": 146.82,
+          "max": 968.53,
+          "avg": 527.34,
+          "count": 14
+        }
+      },
+      "summary": {
+        "total_items": 33,
+        "pdd_min": 38.2,
+        "jd_min": 75.02,
+        "taobao_min": 146.82
+      }
+    }
+  ],
+  "è³æº": [
+    {
+      "timestamp": "2026-11-02 13:50:55",
+      "platforms": {
+        "pdd": {
+          "min": 75.7,
+          "max": 408.3,
+          "avg": 219.13,
+          "count": 11
+        },
+        "jd": {
+          "min": 51.91,
+          "max": 253.24,
+          "avg": 160.28,
+          "count": 9
+        },
+        "taobao": {
+          "min": 143.87,
+          "max": 899.61,
+          "avg": 558.3,
+          "count": 12
+        }
+      },
+      "summary": {
+        "total_items": 32,
+        "pdd_min": 75.7,
+        "jd_min": 51.91,
+        "taobao_min": 143.87
+      }
+    },
+    {
+      "timestamp": "2026-11-02 13:50:56",
+      "platforms": {
+        "pdd": {
+          "min": 75.7,
+          "max": 408.3,
+          "avg": 219.13,
+          "count": 11
+        },
+        "taobao": {
+          "min": 143.87,
+          "max": 899.61,
+          "avg": 558.3,
+          "count": 12
+        },
+        "jd": {
+          "min": 51.91,
+          "max": 282.23,
+          "avg": 172.48,
+          "count": 10
+        }
+      },
+      "summary": {
+        "total_items": 33,
+        "pdd_min": 75.7,
+        "taobao_min": 143.87,
+        "jd_min": 51.91
+      }
+    }
+  ],
+  "防晒霜": [
+    {
+      "timestamp": "2026-11-02 13:51:41",
+      "platforms": {
+        "jd": {
+          "min": 329.91,
+          "max": 1158.35,
+          "avg": 698.64,
+          "count": 4
+        },
+        "taobao": {
+          "min": 36.04,
+          "max": 187.56,
+          "avg": 89.75,
+          "count": 4
+        },
+        "pdd": {
+          "min": 66.73,
+          "max": 193.54,
+          "avg": 143.69,
+          "count": 3
+        }
+      },
+      "summary": {
+        "total_items": 11,
+        "jd_min": 329.91,
+        "taobao_min": 36.04,
+        "pdd_min": 66.73
+      }
+    }
+  ]
+}
